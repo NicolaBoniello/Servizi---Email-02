@@ -1,0 +1,13 @@
+spring:
+  mail:
+    host: smtp.sendgrid.net
+    port: 587
+    username: nboniello466@gmail.com
+    password:
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+

@@ -1,0 +1,6 @@
+co\develhope\email2\students\services\StudentService.class
+co\develhope\email2\emails\services\EmailService.class
+co\develhope\email2\Email2Application.class
+co\develhope\email2\students\entities\Student.class
+co\develhope\email2\api\controllers\NotificationController.class
+co\develhope\email2\api\entities\NotificationDTO.class
